@@ -1,4 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="peacetv" tvg-name="Peace TV" tvg-logo="https://m1pfxzepyyyj.merlincdn.net/content/6/BJ/169578/logo_50.png" group-title="Islamic",Peace TV
-https://raw.githubusercontent.com/noobuser476/test/refs/heads/main/peacetv.m3u8
+http://103.23.206.189/peacetv/tracks-v1/index.fmp4.m3u8
